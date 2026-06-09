@@ -1,1 +1,20 @@
-
+{
+  "request_id": "req_01HX9K2P3Q",
+  "tenant_id": "tenant_abc123",
+  "model_version": "v2.0",
+  "moderated_at": "2024-06-01T12:00:00Z",
+  "labels": [
+    {
+      "label": "prohibited_weapons",
+      "probability": 0.981
+    },
+    {
+      "label": "graphic_violence",
+      "probability": 0.845
+    },
+    {
+      "label": "safe_for_work",
+      "probability": 0.012
+    }
+  ]
+}
