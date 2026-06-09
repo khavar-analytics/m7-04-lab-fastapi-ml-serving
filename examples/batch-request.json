@@ -1,1 +1,16 @@
-
+{
+  "images": [
+    {
+      "id": "img-001",
+      "image": "/9j/4AAQSkZJRgAB...",
+      "media_type": "image/jpeg"
+    },
+    {
+      "id": "img-002",
+      "image": "iVBORw0KGgoAAAANSUhEUgAA...",
+      "media_type": "image/png"
+    }
+  ],
+  "top_k": 5,
+  "model_version": "v2.0"
+}
