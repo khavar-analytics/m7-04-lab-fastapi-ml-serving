@@ -129,3 +129,6 @@ You will be reviewed on:
 - **Do your example payloads validate against your own schemas?**
 
 Design-first thinking. No frameworks, just contracts.
+
+## Example payloads
+The image field in all example files contains a placeholder string. In production, this would be a base64-encoded JPEG, PNG, or WebP image with a decoded size not exceeding 5 MB.
