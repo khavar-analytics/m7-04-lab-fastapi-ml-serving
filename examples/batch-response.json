@@ -1,1 +1,22 @@
-
+{
+  "request_id": "req_01HX9K2P3R",
+  "tenant_id": "tenant_abc123",
+  "model_version": "v2.0",
+  "moderated_at": "2024-06-01T12:00:01Z",
+  "results": {
+    "img-001": {
+      "labels": [
+        { "label": "safe_for_work", "probability": 0.97 },
+        { "label": "graphic_violence", "probability": 0.02 },
+        { "label": "explicit", "probability": 0.01 }
+      ]
+    },
+    "img-002": {
+      "labels": [
+        { "label": "explicit", "probability": 0.85 },
+        { "label": "safe_for_work", "probability": 0.10 },
+        { "label": "prohibited_weapons", "probability": 0.05 }
+      ]
+    }
+  }
+}
